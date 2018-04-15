@@ -1,6 +1,6 @@
-# amaniapp
+# Flutter Navigation Drawer
 
-A new Flutter project.
+Integrate  Flutter Drawer in both size of the App bar
 
 ## Getting Started
 
