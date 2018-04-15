@@ -1,6 +1,6 @@
 # Flutter Navigation Drawer
 
-Integrate  Flutter Drawer in both side of the App bar
+Implement Flutter Drawer in both side of the App bar
 
 ## Getting Started
 
