@@ -1,4 +1,4 @@
-package com.example.amaniapp;
+package com.example.drawer;
 
 import android.os.Bundle;
 
